@@ -1,1 +1,15 @@
+Background: Smart Parking Barrier System.
+A local university wants to implement a smart parking barrier system at its main gate. The
+system should:
+- Automatically open the barrier for registered staff and students.
+- Count the number of cars in the parking lot.
+- Display the number of available spots.
+- Trigger an alert if someone tries to enter when the parking is full.
+The goal is to simulate and implement the logic using the Integrated Problem-Solving Process.
+Step 1: Understand and Define the Problem (Analyse)
+Step 2: Organise and Describe the Data
+Step 3: Plan the Solution (Design the Algorithm)
+Step 4: Implement the Solution (Word Coding)
+Step 5: Test and Refine the Solution (Debug and Verify)
+
 
